@@ -4,8 +4,8 @@ seotitle: Custom SEO title here for title tag
 categories: [Web Development]
 description: Meta override description here
 ---
-## Justin TODO
-Use this page as documentation and document all essential features.
+## Documentation Coming Soon
+Standby! Docs are in progress.
 
 ## Thanks!
 Thanks for checking Skimpy out! Try [reading the docs](https://docs.skimpycms.com).

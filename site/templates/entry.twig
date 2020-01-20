@@ -1,14 +1,16 @@
 {% extends 'layouts/master' %}
 
 {% block content %}
-    <header>
-        <h1>{{ entry.title }}</h1>
-        <p>Published: <time pubdate="pubdate">{{ entry.date }}</time></p>
-    </header>
+    <article>
+        <header>
+            <h1>{{ entry.title }}</h1>
+            <p>Published: <time pubdate="pubdate">{{ entry.date }}</time></p>
+        </header>
 
-    {{ entry.content | raw }}
+        {{ entry.content | raw }}
 
-    <footer>
-        {% include 'partials/taxonomies' %}
-    </footer>
+        <footer>
+            {% include 'partials/taxonomies' %}
+        </footer>
+    </article>
 {% endblock content %}

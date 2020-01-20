@@ -12,13 +12,13 @@
 {% extends 'layouts/master' %}
 
 {% block content %}
-    <article>
-        <h1>{{ entry.title }}</h1>
-        {{ entry.content | raw }}
-        <ul>
-            {% for item in entries %}
-                <li><a href="{{ skimpy.url(item.uri) }}">{{ item.title }}</a></li>
-            {% endfor %}
-        </ul>
-    </article>
+    <h1>{{ entry.title }}</h1>
+
+    {{ entry.content | raw }}
+
+    {% for item in entries %}
+        <article>
+            <h4><a href="{{ skimpy.url(item.uri) }}">{{ item.title }}</a></h4>
+        </article>
+    {% endfor %}
 {% endblock content %}

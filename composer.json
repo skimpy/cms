@@ -17,14 +17,13 @@
     "keywords": [
         "cms",
         "blog",
-        "static site generator",
         "flat file cms",
         "flat file blog",
         "skimpy"
     ],
     "require": {
         "php": "^7.2",
-        "skimpy/engine": "dev-master"
+        "skimpy/engine": "^0.1.0"
     },
     "minimum-stability": "dev"
 }

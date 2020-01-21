@@ -18,7 +18,7 @@
     <h1>{{ taxonomy.name }}</h1>
     <ul>
         {% for term in taxonomy.terms %}
-            <li><a href="/{{ skimpy.url(term.uri) }}">{{ term.name }}</a></li>
+            <li><a href="{{ skimpy.url(term.uri) }}">{{ term.name }}</a></li>
         {% endfor %}
     </ul>
 {% endblock content %}

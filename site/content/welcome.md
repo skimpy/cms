@@ -8,4 +8,4 @@ description: Meta override description here
 Standby! Docs are in progress.
 
 ## Thanks!
-Thanks for checking Skimpy out! Try [reading the docs](https://skimpycms.com/docs).
+Thanks for checking Skimpy out! Try [reading the docs](http://skimpycms.com/docs).

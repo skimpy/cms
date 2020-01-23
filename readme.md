@@ -1,5 +1,3 @@
-# Skimpy CMS
-
 <p align="center"><img src="https://skimpycms.com/img/skimpy-logo-blue.png" width="400"></p>
 
 <p align="center">

@@ -14,7 +14,7 @@ Visit https://skimpycms.com for more info
 
 ## Documentation
 
-Ready the docs: https://skimpycms.com/docs
+Read the docs: https://skimpycms.com/docs
 
 ## License
 

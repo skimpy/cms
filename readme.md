@@ -41,7 +41,7 @@ Visit https://skimpycms.com for more info
 
 #### Server Requirements
 <ul>
-    <li>PHP >= 7.2</li>
+    <li>PHP >= 8.0.2</li>
     <li>OpenSSL PHP Extension</li>
     <li>PDO PHP Extension</li>
     <li>Mbstring PHP Extension</li>

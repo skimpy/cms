@@ -1,5 +1,3 @@
-<p align="center"><img src="https://skimpycms.com/img/skimpy-logo-blue.png" width="400"></p>
-
 <p align="center">
     <a href="https://packagist.org/packages/skimpy/cms"><img src="https://poser.pugx.org/skimpy/cms/v/stable.svg" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/skimpy/cms"><img src="https://poser.pugx.org/skimpy/cms/license.svg" alt="License"></a>

@@ -22,8 +22,8 @@
         "skimpy"
     ],
     "require": {
-        "php": "^7.2",
-        "skimpy/engine": "^0.1.3"
+        "php": "^8.0.2",
+        "skimpy/engine": "^0.2.0"
     },
     "minimum-stability": "dev"
 }

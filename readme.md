@@ -8,8 +8,6 @@
 
 Skimpy is a file based CMS that is written with and runs on PHP (Lumen). It is NOT a static site generator. Generators are cumbersome tools. Skimpy is easy to use. You just create a file, and there it is! Skimpy is so easy to use that it might be the easiest CMS/blogging tool that you've ever tried. Don't believe me? Give it a shot!
 
-Visit https://skimpycms.com for more info
-
 ## Documentation
 
 <ul>

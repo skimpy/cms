@@ -14,8 +14,10 @@ RUN apt-get update && apt-get install -y \
     php8.2-sqlite3 \
     php8.2-fpm \
     php8.2-mbstring \
+    php8.2-bcmath \
+    php8.2-curl \
+    php8.2-intl \
     php8.2-xml \
-    php8.2-mysql \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Set the working directory

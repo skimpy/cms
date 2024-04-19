@@ -58,7 +58,7 @@ Skimpy is a file based CMS that is written with and runs on PHP (Lumen). It is N
     <li><code>cp .env.example .env</code></li>
     <li>Update the .env file to match your preferences/info</li>
     <li><code>php -S localhost:4000 -t public</code></li>
-    <li>Visit http://localhost:4000</li>
+    <li>Visit <a href="http://localhost:4000">http://localhost:4000</a></li>
 </ol>
 
 <h4>Composer + Docker</h4>
@@ -69,7 +69,7 @@ Skimpy is a file based CMS that is written with and runs on PHP (Lumen). It is N
     <li>Update the .env file to match your preferences/info</li>
     <li><code>docker build -t skimpy .</code></li>
     <li><code>docker run -p 4000:80 skimpy</code></li>
-    <li>Visit http://localhost:4000</li>
+    <li>Visit <a href="http://localhost:4000">http://localhost:4000</a></li>
 </ol>
 
 <h2>Creating a Blog Post</h2>

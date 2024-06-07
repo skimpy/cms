@@ -150,7 +150,10 @@ URL = http://localhost:4000/products/widget</pre>
 
 <h4>Accessing FrontMatter Metadata in Templates</h4>
 <p>Call the "meta" method on the entry object and pass in the key you want.</p>
-<p><code>{{ "{{ entry.meta('restaurants') }}"}}</code></p>
+
+```twig
+{{ entry.meta('restaurants') }}
+```
 
 <h4>Example Content File With Front Matter</h4>
 

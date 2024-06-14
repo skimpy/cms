@@ -90,7 +90,7 @@ Skimpy is a file based CMS that is written with and runs on PHP (Lumen). It is N
 
 ```
 path = path/to/skimpy/site/content/products/widget.md
-URL = http://localhost:4000/products/widget</pre>
+URL = http://localhost:4000/products/widget
 ```
 
 <h2>Adding Front Matter</h2>

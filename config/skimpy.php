@@ -37,7 +37,7 @@ return [
                 'seotitle' => 'Home',
             ],
             'articles' => [
-                'template' => 'index',
+                'template' => 'articles',
                 'limit' => null,
                 'seotitle' => 'Articles',
             ]
